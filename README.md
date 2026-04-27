@@ -4,13 +4,13 @@
 
 ## TL;DR
 
-Northbeam Solutions, a ~$300M professional services firm, was issuing statements of work (SOWs) against client master service agreements (MSAs) without any system-side check on whether cumulative SOW commitments were exceeding the MSA ceiling. I wrote a SQL query that parsed versioned SOW codes, kept only the latest amendment of each, summed them by parent MSA, and surfaced every contract where commitments had exceeded the ceiling. The output identified **138 MSAs with a combined ~$40M in overages**, drove remediation across all of them, and became part of a recurring monitoring cadence.
+Northbeam Solutions, a mid-sized professional services firm, was issuing statements of work (SOWs) against client master service agreements (MSAs) without any system-side check on whether cumulative SOW commitments were exceeding the MSA ceiling. I wrote a SQL query that parsed versioned SOW codes, kept only the latest amendment of each, summed them by parent MSA, and surfaced every contract where commitments had exceeded the ceiling. The output identified **over 130 MSAs with 8 figures in cumulative overages**, drove remediation across all of them, and became part of a recurring monitoring cadence.
 
 ## The problem
 
 Northbeam's commercial structure is standard for professional services: a client signs a master service agreement (MSA) with a ceiling — say, $5M over three years — and the firm draws against that ceiling by issuing statements of work (SOWs) for specific scopes. Each SOW carries its own dollar value. Each one can be amended (versioned) over time as scope changes.
 
-The contracts platform stored every SOW, including every amendment. But there was no built-in check comparing **the sum of latest-version SOW values** against **the parent MSA ceiling**. Project managers issued SOWs locally, against their understanding of remaining ceiling, without a portfolio-level view. Over hundreds of active MSAs, this was guaranteed to produce silent overruns — and it did, to the tune of $40M.
+The contracts platform stored every SOW, including every amendment. But there was no built-in check comparing **the sum of latest-version SOW values** against **the parent MSA ceiling**. Project managers issued SOWs locally, against their understanding of remaining ceiling, without a portfolio-level view. Over hundreds of active MSAs, this was guaranteed to produce silent overruns — and it did, to the tune of tens of millions.
 
 The cost of leaving it unsolved: revenue recognized against work the firm had no contractual right to bill, awkward client renegotiations after the fact, and exposure that nobody had quantified.
 
@@ -42,7 +42,7 @@ All of this in one query, against the live contracts schema.
 
 ## Outcome
 
-The query identified **138 MSAs** with cumulative latest-version SOW commitments exceeding their ceilings, totaling **approximately $40M in overages** across the affected portfolio.
+The query identified **over 130 MSAs** with cumulative latest-version SOW commitments exceeding their ceilings, totaling **tens of millions of dollars in overages** across the affected portfolio.
 
 The output was the start of a multi-step remediation workflow:
 
@@ -52,8 +52,8 @@ The output was the start of a multi-step remediation workflow:
 
 Two audiences used the output:
 
-- **Leadership** got a portfolio-level view of contractual exposure they hadn't had before, sized at $40M, which informed how they talked about pipeline risk and how to prioritize remediation effort.
-- **The contracts and procurement team** got an actionable, owner-mapped remediation queue — not just "138 contracts have a problem," but "here's the buyer for each one and how to reach them."
+- **Leadership** got a portfolio-level view of contractual exposure they hadn't had before which informed how they talked about pipeline risk and how to prioritize remediation effort.
+- **The contracts and procurement team** got an actionable, owner-mapped remediation queue — not just "over 130 contracts have a problem," but "here's the buyer for each one and how to reach them."
 
 The query was promoted from a one-off into a scheduled report so the contracts team could catch new overages as they emerged rather than discovering them in batch.
 
