@@ -1,0 +1,201 @@
+msa_id,msa_code,client_name,msa_ceiling_amount
+1,MSA-00001,"Rodriguez, Figueroa and Sanchez",4765158.71
+2,MSA-00002,Doyle Ltd,1096995.19
+3,MSA-00003,"Mcclain, Miller and Henderson",2577212.67
+4,MSA-00004,Davis and Sons,2316512.26
+5,MSA-00005,"Guzman, Hoffman and Baldwin",5524713.67
+6,MSA-00006,"Gardner, Robinson and Lawrence",5043101.88
+7,MSA-00007,Blake and Sons,7137421.99
+8,MSA-00008,"Henderson, Ramirez and Lewis",1613049.13
+9,MSA-00009,Garcia-James,3371731.62
+10,MSA-00010,Abbott-Munoz,1151621.34
+11,MSA-00011,Blair PLC,2293930.06
+12,MSA-00012,Dudley Group,3868687.08
+13,MSA-00013,Arnold Ltd,1114928.91
+14,MSA-00014,"Mcclure, Ward and Lee",2196901.99
+15,MSA-00015,Williams and Sons,4841629.84
+16,MSA-00016,Galloway-Wyatt,4119145.69
+17,MSA-00017,James Group,2302824.37
+18,MSA-00018,"Flowers, Martin and Kelly",4412889.12
+19,MSA-00019,"Adams, Zuniga and Wong",6194308.83
+20,MSA-00020,"Reid, Ferguson and Sanchez",804314.52
+21,MSA-00021,Gray-Mayo,6158420.0
+22,MSA-00022,"Watts, Robinson and Nguyen",5210281.22
+23,MSA-00023,Perez Inc,2918971.77
+24,MSA-00024,Morales-Jones,1988483.41
+25,MSA-00025,"Walter, Edwards and Rios",8196723.4
+26,MSA-00026,Wilkerson-Day,2899379.28
+27,MSA-00027,Baker and Sons,1649620.92
+28,MSA-00028,"Hoffman, Baker and Richards",1673971.2
+29,MSA-00029,"Ross, Robinson and Bright",6595528.21
+30,MSA-00030,"Snyder, Campos and Callahan",4512120.48
+31,MSA-00031,Burton Ltd,6171390.43
+32,MSA-00032,Carlson-Cruz,5467849.94
+33,MSA-00033,"Ferrell, Rice and Maddox",4063109.82
+34,MSA-00034,Frazier Inc,8570593.85
+35,MSA-00035,"Dyer, Potter and Mack",3127490.46
+36,MSA-00036,Rodriguez-Graham,4165198.2
+37,MSA-00037,Smith-Bowen,6399271.53
+38,MSA-00038,"Baker, Mason and White",4615531.7
+39,MSA-00039,Harrell LLC,6758044.48
+40,MSA-00040,"Romero, Gonzalez and Brooks",4332439.95
+41,MSA-00041,Ryan PLC,5261588.83
+42,MSA-00042,George Group,1308082.59
+43,MSA-00043,Rodriguez LLC,2339730.35
+44,MSA-00044,Allen-Allen,2651087.51
+45,MSA-00045,"Arroyo, Miller and Tucker",1566318.75
+46,MSA-00046,Spence PLC,2364039.51
+47,MSA-00047,Anderson Group,1699695.95
+48,MSA-00048,"Martin, Rose and Obrien",2592300.89
+49,MSA-00049,Hickman Ltd,4738062.88
+50,MSA-00050,"Harris, Collins and Carney",3052140.3
+51,MSA-00051,"Brooks, Lam and Hayes",3081456.33
+52,MSA-00052,Walker LLC,2249034.53
+53,MSA-00053,Chapman and Sons,2536107.88
+54,MSA-00054,"Robinson, Jones and Welch",7805859.77
+55,MSA-00055,Jones Inc,4828026.42
+56,MSA-00056,Jones-Young,4549674.91
+57,MSA-00057,"Washington, Ryan and Cummings",2063157.89
+58,MSA-00058,"Johnston, Sanchez and Kennedy",5462780.22
+59,MSA-00059,Lee-Davis,2026204.76
+60,MSA-00060,Gomez-Jenkins,3132585.17
+61,MSA-00061,"Brown, Valdez and Lucas",9107685.4
+62,MSA-00062,Powell LLC,4769319.52
+63,MSA-00063,Wright and Sons,4197257.59
+64,MSA-00064,"West, Henderson and Ramirez",5104153.09
+65,MSA-00065,Baxter Inc,6544098.66
+66,MSA-00066,Morton-Chase,5873984.16
+67,MSA-00067,Williams PLC,2345436.23
+68,MSA-00068,Novak and Sons,1176334.59
+69,MSA-00069,Russell Group,2787124.82
+70,MSA-00070,Hancock Inc,2539993.74
+71,MSA-00071,Gray Group,2256273.26
+72,MSA-00072,House-Glover,7917006.55
+73,MSA-00073,Henderson-Bernard,6934700.6
+74,MSA-00074,"Stanley, Tucker and Lee",2783042.12
+75,MSA-00075,Novak PLC,4882709.56
+76,MSA-00076,"Daniels, Adkins and Brown",3222686.7
+77,MSA-00077,"Woods, Calhoun and Schmidt",7451592.03
+78,MSA-00078,Yu Inc,3586946.19
+79,MSA-00079,Jones Inc,2525435.98
+80,MSA-00080,"Hensley, Powell and David",2433210.1
+81,MSA-00081,"Sanchez, Wheeler and Harvey",4226264.48
+82,MSA-00082,Sandoval-Cunningham,2514571.64
+83,MSA-00083,Donovan-Harris,4381150.94
+84,MSA-00084,"Edwards, Baker and Anderson",7213342.35
+85,MSA-00085,"Evans, Stewart and Walton",3243850.09
+86,MSA-00086,Smith PLC,2297297.73
+87,MSA-00087,"Ferrell, Jones and Lewis",9567400.99
+88,MSA-00088,Anderson-Bailey,3894592.42
+89,MSA-00089,Suarez LLC,1638182.38
+90,MSA-00090,Moore-Bass,1319395.11
+91,MSA-00091,"Turner, Riggs and Roman",1750000.04
+92,MSA-00092,"Smith, Montoya and Evans",4678900.41
+93,MSA-00093,"Garcia, Humphrey and Baker",6024831.03
+94,MSA-00094,Newton and Sons,3373097.06
+95,MSA-00095,Campbell-Clark,1451456.68
+96,MSA-00096,Harris-Walters,3144569.0
+97,MSA-00097,Wagner-King,9457068.05
+98,MSA-00098,Davis Group,4017750.44
+99,MSA-00099,Williams-Cook,8517420.05
+100,MSA-00100,Walsh LLC,6747194.65
+101,MSA-00101,Figueroa PLC,904480.61
+102,MSA-00102,"Patterson, Smith and Jones",5392924.82
+103,MSA-00103,"Mckee, Gardner and Davenport",5081665.73
+104,MSA-00104,"Tran, Jordan and Williams",4067862.54
+105,MSA-00105,Nolan-Flynn,2535330.85
+106,MSA-00106,Nolan and Sons,4776313.25
+107,MSA-00107,"Wright, Garcia and Deleon",1760800.73
+108,MSA-00108,Dickson-Brady,3445776.86
+109,MSA-00109,Hancock and Sons,3556631.45
+110,MSA-00110,Johnson-Doyle,8126503.4
+111,MSA-00111,Patton-Jenkins,6928326.75
+112,MSA-00112,"Shields, Cochran and Adams",2517859.12
+113,MSA-00113,"Rodriguez, Brennan and Garrison",3839200.1
+114,MSA-00114,Gonzalez Group,2099211.62
+115,MSA-00115,Torres-Pope,7423125.11
+116,MSA-00116,Walker Ltd,6863028.74
+117,MSA-00117,Ross LLC,2698069.03
+118,MSA-00118,Rasmussen LLC,4761695.08
+119,MSA-00119,May-Ross,4548553.96
+120,MSA-00120,"Rivera, Johnson and Wiley",1975791.17
+121,MSA-00121,White-Estes,5751567.44
+122,MSA-00122,Johnson-Carlson,4083312.27
+123,MSA-00123,Chandler-Edwards,5898245.79
+124,MSA-00124,"Joyce, Wilson and Lam",4025627.99
+125,MSA-00125,Scott Ltd,590274.69
+126,MSA-00126,Smith-Frost,2833122.04
+127,MSA-00127,"Mcdaniel, Bentley and Mclaughlin",1026824.05
+128,MSA-00128,Diaz Inc,7678684.6
+129,MSA-00129,"Mccall, Hanson and Alvarado",6964026.14
+130,MSA-00130,Cortez LLC,6423210.97
+131,MSA-00131,"Parker, Ortiz and Powell",2745420.31
+132,MSA-00132,Spencer-Lee,1408533.78
+133,MSA-00133,"Bentley, Byrd and Orr",6955123.9
+134,MSA-00134,"Carroll, Sullivan and Bass",7992055.24
+135,MSA-00135,Mitchell-Jordan,1604790.34
+136,MSA-00136,"Lawson, Morris and Ramos",3749822.02
+137,MSA-00137,"Lewis, Kennedy and Santana",1493115.5
+138,MSA-00138,"Jackson, Miller and Robertson",5734529.87
+139,MSA-00139,"Harvey, Davis and Crane",5781400.31
+140,MSA-00140,Chambers and Sons,1852619.08
+141,MSA-00141,Hernandez Inc,3685054.29
+142,MSA-00142,Riggs PLC,4150647.31
+143,MSA-00143,Gibson Ltd,2526333.15
+144,MSA-00144,"Lee, Horton and Snyder",6886306.23
+145,MSA-00145,Hernandez Ltd,3378707.34
+146,MSA-00146,Stafford Inc,2260275.43
+147,MSA-00147,Robinson-Brock,4082779.6
+148,MSA-00148,"Holmes, Williams and Wright",5469521.13
+149,MSA-00149,Bryant Group,2208176.13
+150,MSA-00150,"Schmidt, Hansen and Stewart",2767465.05
+151,MSA-00151,Salazar-Ball,9392835.37
+152,MSA-00152,"Simmons, Meadows and Griffin",4841582.84
+153,MSA-00153,Manning Group,3465140.12
+154,MSA-00154,Green-Wright,3944899.99
+155,MSA-00155,"Ramirez, Strickland and Washington",1813129.77
+156,MSA-00156,Hill Inc,2323868.01
+157,MSA-00157,"Mitchell, Nelson and Flores",2907363.16
+158,MSA-00158,"Miller, Hernandez and Reyes",4406384.23
+159,MSA-00159,Mccarthy Inc,2350733.35
+160,MSA-00160,Russell-Daniels,2301722.35
+161,MSA-00161,Brown-Wall,1505808.87
+162,MSA-00162,Stein-Silva,4705080.24
+163,MSA-00163,"Smith, Gilmore and Johnston",2344908.59
+164,MSA-00164,Smith-Bell,7318940.69
+165,MSA-00165,Castaneda-Ashley,6733854.02
+166,MSA-00166,Medina-Navarro,1504846.87
+167,MSA-00167,"Hurst, Freeman and Nelson",2390029.71
+168,MSA-00168,Johnson-Rogers,4984255.9
+169,MSA-00169,"Yates, Ramsey and Pittman",2272257.6
+170,MSA-00170,Hooper PLC,1873114.65
+171,MSA-00171,Meadows PLC,7786198.36
+172,MSA-00172,"Alvarado, Miller and Patterson",4290295.55
+173,MSA-00173,White-Green,3669360.06
+174,MSA-00174,Lewis-Murphy,5954147.34
+175,MSA-00175,Ramirez-Bean,6175051.87
+176,MSA-00176,King-Miller,2155967.46
+177,MSA-00177,Curry Inc,1675271.93
+178,MSA-00178,Walker-Jones,3424278.74
+179,MSA-00179,"Williams, Johnson and Wright",3381236.92
+180,MSA-00180,Howell and Sons,3635557.74
+181,MSA-00181,Wells Inc,5462353.54
+182,MSA-00182,"Gould, Marshall and Scott",5017601.54
+183,MSA-00183,Jackson-Lawson,8902984.08
+184,MSA-00184,"Higgins, Strickland and Martin",1684252.79
+185,MSA-00185,Rodriguez-Johnson,3261989.72
+186,MSA-00186,Johnston-Odonnell,2913886.68
+187,MSA-00187,Sanders-Espinoza,6757641.72
+188,MSA-00188,Vargas Ltd,2443405.62
+189,MSA-00189,Garcia LLC,2154993.76
+190,MSA-00190,"Burke, Martinez and Riggs",3526564.25
+191,MSA-00191,Reed Group,3371501.27
+192,MSA-00192,"Wood, Hunter and Peterson",2595233.36
+193,MSA-00193,Short-Garcia,2449191.44
+194,MSA-00194,Reid-Poole,7585085.0
+195,MSA-00195,"Hernandez, Thompson and Boyd",3494459.03
+196,MSA-00196,"Nelson, Morton and Medina",6753853.36
+197,MSA-00197,Marshall-Petersen,4154037.61
+198,MSA-00198,"Adams, Christian and Rivas",1349048.7
+199,MSA-00199,Ramirez Group,9766478.27
+200,MSA-00200,Christensen PLC,6469857.86
